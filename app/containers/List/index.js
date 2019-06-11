@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { ScrollView, View, ActivityIndicator } from "react-native";
 
-import { Image, ListItem } from "react-native-elements";
+import { ListItem } from "react-native-elements";
 
 import ApiService from "../../api";
 import helpers from "../../helpers";
