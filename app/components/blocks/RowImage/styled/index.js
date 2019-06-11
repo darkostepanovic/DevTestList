@@ -1,7 +1,6 @@
 import styled from "styled-components";
-import { Animated } from "react-native";
 
-export const Wrapper = styled(Animated.View)`
+export const Wrapper = styled.View`
   position: absolute;
   top: 0;
   bottom: 0;
